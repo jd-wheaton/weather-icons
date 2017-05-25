@@ -1,3 +1,5 @@
+# ** THIS PROJECT HAS BEEN MODIFIED FOR A PERSONAL PROJECT ** Please fork the original if you desire to use it, else it may be difficult to determine why it doesn't work for you.
+
 # PROJECT NO LONGER MAINTAINED
 Please note: Weather Icons is no longer maintained or updated here. the project is currently looking for a new owner who wants to bear the responsibility. Feel free to let me know.
 
